@@ -1,0 +1,35 @@
+{
+  "name": "auth-module",
+  "version": "1.0.0",
+  "description": "JWT Authentication Module using Node.js, Express, MySQL, BCrypt, and Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "jwt",
+    "mysql",
+    "bcrypt",
+    "docker",
+    "authentication"
+  ],
+  "author": "Bharath Kumar Gorre",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.14.3",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

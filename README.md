@@ -6,7 +6,8 @@ A secure authentication REST API built with **Node.js**, **Express.js**, **MySQL
 
 ## 🚀 Live Demo
 
-(https://jwt-authentication-module.vercel.app/)
+https://jwt-authentication-module.vercel.app
+
 ---
 
 ## 🚀 Features

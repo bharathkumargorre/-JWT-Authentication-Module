@@ -1,4 +1,4 @@
-# 🔐 JWT Authentication Module
+# 🔐 JWT Authentication Module 
 
 A secure authentication REST API built with **Node.js**, **Express.js**, **MySQL**, **JWT**, and **bcrypt**.
 
